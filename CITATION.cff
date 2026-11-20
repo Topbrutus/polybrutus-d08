@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "Cite the Zenodo record if and when independently released; otherwise cite this repository/tag."
+message: "Please cite the verified Polybrutus 8D Zenodo publication DOI 10.5281/zenodo.24408344."
 title: "Polybrutus 8D: exact conservative lifting and a weighted-Laplacian spectral certificate"
 authors:
   - family-names: "St-Pierre"
     given-names: "Gabriel"
     orcid: "https://orcid.org/0009-0009-9297-2336"
 version: "0.1.0"
+doi: 10.5281/zenodo.24408344
 date-released: "2026-11-20"
 url: "https://github.com/Topbrutus/polybrutus-d08"
 license: MIT

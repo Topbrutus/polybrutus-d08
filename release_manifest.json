@@ -3,18 +3,51 @@
   "dimension": 8,
   "repository": "Topbrutus/polybrutus-d08",
   "branch": "main",
-  "state": "CERTIFIED_LOCAL_PENDING_REPO_AND_PUBLICATION_REVIEW",
+  "state": "DONE",
   "vertices": 13,
   "pairs": 78,
   "affine_rank": 8,
   "parent_doi": "10.5281/zenodo.24407952",
-  "github_commit": null,
-  "github_release_tag": null,
-  "zenodo_draft_id": null,
-  "zenodo_doi": null,
+  "github_commit": "356973b71ec14aa5881a8e26edd375efdb84f0af",
+  "github_release_tag": "v0.1.0",
+  "zenodo_draft_id": 24408344,
+  "zenodo_doi": "10.5281/zenodo.24408344",
   "scientific_delta": "Exact D08 labelled metric plus dimension-specific oscillator Laplacian polynomial; no general novelty claim",
   "physical_claim": "NONE",
   "human_peer_review": "NOT_DONE",
-  "publication_approval": "Operator go for D08 preparation; public release remains subject to scientific and integrity gates",
-  "next_action": "Create private GitHub repo, verify files/CI, prepare unique Zenodo draft, review publication readiness"
+  "publication_approval": "Topbrutus explicitly authorized Zenodo API and said go for D08 execution in this conversation",
+  "next_action": "Start Polybrutus D09 in candidate mode only after D08 checkpoint verification; never reuse D08 DOI for another dimension.",
+  "github_repo_public_verified": true,
+  "github_main_postpublication_changes": "README/CITATION and manifest updated after frozen tag; main may advance independently",
+  "github_actions": {
+    "run_id": 44836421518,
+    "result": "success"
+  },
+  "zenodo_record_id": 24408344,
+  "zenodo_public_verified": true,
+  "files": [
+    {
+      "name": "POLYBRUTUS_D08_SOURCE_v0.1.0_GITHUB_TAG.zip",
+      "size": 77785,
+      "sha256": "481e418bdca609bafcafa17c39b7b1fb1cd313315ebd44c7ec1b536a384598b5"
+    },
+    {
+      "name": "POLYBRUTUS_8D_NOTE.pdf",
+      "size": 59121,
+      "sha256": "b5d645c53496255b68523317929b9e641b694e538566b5db7b4f805f4b31075b"
+    },
+    {
+      "name": "certificate_d08.json",
+      "sha256": "a74bbf68fe9dd0327e1718af4094d29f5a697eddb06ad379ab51556115ce4847"
+    }
+  ],
+  "verification": {
+    "coordinate_rank": "PASS",
+    "centered_distance_gram_rank": "PASS",
+    "exact_78_pair_comparison": "PASS",
+    "negative_controls": "PASS",
+    "independent_software_checker": "PASS",
+    "github_actions": "PASS",
+    "public_zenodo_files": "PASS"
+  }
 }

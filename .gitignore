@@ -1,0 +1,14 @@
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+__pycache__/
+.pytest_cache/
+*.pyc
+*.b64
+*.bak
+*.tmp
+zenodo.txt
+conversations*.json

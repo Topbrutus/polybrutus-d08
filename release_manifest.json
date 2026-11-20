@@ -1,0 +1,20 @@
+{
+  "schema": "POLYBRUTUS-X72-DIMENSION-RELEASE-V1",
+  "dimension": 8,
+  "repository": "Topbrutus/polybrutus-d08",
+  "branch": "main",
+  "state": "CERTIFIED_LOCAL_PENDING_REPO_AND_PUBLICATION_REVIEW",
+  "vertices": 13,
+  "pairs": 78,
+  "affine_rank": 8,
+  "parent_doi": "10.5281/zenodo.24407952",
+  "github_commit": null,
+  "github_release_tag": null,
+  "zenodo_draft_id": null,
+  "zenodo_doi": null,
+  "scientific_delta": "Exact D08 labelled metric plus dimension-specific oscillator Laplacian polynomial; no general novelty claim",
+  "physical_claim": "NONE",
+  "human_peer_review": "NOT_DONE",
+  "publication_approval": "Operator go for D08 preparation; public release remains subject to scientific and integrity gates",
+  "next_action": "Create private GitHub repo, verify files/CI, prepare unique Zenodo draft, review publication readiness"
+}

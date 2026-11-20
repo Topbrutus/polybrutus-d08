@@ -1,5 +1,14 @@
 # Polybrutus 8D — exact conservative one-step lifting
 
+## Official public release
+
+- **Zenodo DOI:** [10.5281/zenodo.24408344](https://doi.org/10.5281/zenodo.24408344) (verified public record).
+- **Archived source tag:** [`v0.1.0`](https://github.com/Topbrutus/polybrutus-d08/tree/v0.1.0), commit `356973b71ec14aa5881a8e26edd375efdb84f0af`.
+- **Zenodo files:** two-page scientific note PDF, exact certificate JSON for 78 pairs, GitHub tag source archive.
+- **GitHub Actions:** [`Verify D08 certificate`](https://github.com/Topbrutus/polybrutus-d08/actions/workflows/verify.yml), run `44836421518`: success.
+- **Scope:** exact mathematical model and illustrative spectrum; neither a new dimension of physical spacetime nor a claim of priority for the orthogonal-join construction.
+
+
 **Gabriel St-Pierre**, independent researcher  
 **Status:** 8D exact computational certificate; geometry is a mathematical model, not an eighth physical dimension.  
 **AI assistance:** OpenAI ChatGPT (Astra) substantially assisted construction, mathematical checking, source code, tests, documentation, and drafting. Scientific peer review has not occurred.
